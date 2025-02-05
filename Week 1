@@ -95,4 +95,4 @@ b) Switches operate in full-duplex mode while bridges in half-duplex mode.
 c) Switches broadcast traffic to all ports, while bridges broadcast the traffic to designated ports (ports having the same VLAN port as the sender) by using a MAC address table. 
 d) Switches and bridges are both equally important in modern, large, and complex networks.
 
-Answer - b, c & d
+Answer - c & d
