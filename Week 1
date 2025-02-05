@@ -1,0 +1,98 @@
+1. How many collision domains are in a 10-port hub, an 8-port switch (L2), and a 4-port router, respectively? A collision domain is the segment of a network, where if more than one device tries to send data simultaneously, it causes a collision and the data is lost. 
+a) 1, 8, and 4, respectively. 
+b) 10, 8, and 4, respectively. 
+c) 10, 10, and 10, respectively. 
+d) 5, 4, and 2, respectively.
+
+Answer - a
+
+2. Map the devices with their associated layer in the TCP/IP model. 
+A. NIC 
+1. Physical Layer 
+B. Router 
+2. Data Link Layer 
+C. Bridge 
+3. Network Layer 
+D. Hub 
+4. Transport Layer 
+a) A-2, B-3, C-2, and D-1 
+b) A-3, B-3, C-2, and D-1 
+c) A-3, B-3, C-1, and D-2 
+d) A-2, B-3, C-2, and D-2
+
+Answer - a
+
+3. Map the protocols with their associated layer in TCP/IP. 
+A. FTP 
+1. Physical Layer 
+B. UDP 
+2. Data Link Layer 
+C. PPP 
+3. Network Layer 
+D. IP 
+4. Transport Layer 
+E. HTTP 
+5. Application Layer 
+a) A-1, B-2, C-3, D-4, and E-5 
+b) A-5, B-4, C-3, D-2, and E-1 
+c) A-5, B-2, C-2, D-3, and E-5 
+d) A-5, B-4, C-2, D-3, and E-5
+
+Answer - d
+
+4. Which of the following statement(s) are concerned with encapsulation in computer networks? 
+I. It involves an addition of a header and trailer to the actual data as it moves down in the TCP/IP protocol stack. 
+II. At the transport layer, encapsulation includes port numbers and at the network layer, encapsulation includes IP addresses. 
+a) Only (I) 
+b) Only (II) 
+c) Both (I) and (II) 
+d) Neither (I) nor (II)
+
+Answer - c
+
+5. Which of the following is NOT a disadvantage of the circuit switching technique over the packet switching technique in computer networks? 
+a) Delay in the establishment of a dedicated connection between two hosts 
+b) Inefficient utilization of the resources 
+c) Less scalable 
+d) Provides a dedicated communication path between two end hosts
+
+Answer - d
+
+6. Choose the FALSE statement. 
+a) Bridges filter network traffic based on IP addresses. 
+b) Hubs share bandwidth among all attached devices. 
+c) Switch provides dedicated bandwidth for each LAN segment
+
+Answer - a
+
+7. Which transport layer protocol will be chosen by an application that does not require any reliability? 
+a) TCP 
+b) UDP
+
+Answer - b
+
+8. You are a network administrator in your college. You are asked to do troubleshooting for an issue of a remote server using telnet. Which of the following consideration(s) should you keep in mind when using Telnet for this task? 
+a) Telnet is more secure than SSH while making a remote connection. 
+b) It is advisable to use telnet in a local network rather than on the internet to avoid security risks. 
+c) Telnet encrypts all traffic by itself during communication. 
+d) Telnet transmits data as a plaintext including login credentials.
+
+Answer - b & d
+
+9. Choose the statement(s) that correctly describe(s) the roles and responsibilities of the Network Interface Card (NIC) in the computer networks. 
+I. NIC takes over the responsibility of segmenting large chunks of data into smaller packets that can be transmitted over the networks. 
+II. It converts digital data from the computer's processor to an analog signal. 
+a) Only (I) 
+b) Only (II) 
+c) Both (I) and (II) 
+d) Neither (I) nor (II)
+
+Answer - d
+
+10. Identify the INCORRECT statement(s) related to Bridge and Switch (L2) in computer networks. 
+a) For small enterprises (without the need for features like QoS, VLANs, and STP), a switch is more economical/suitable in the case of segmenting the traffic between two LANs than a bridge. 
+b) Switches operate in full-duplex mode while bridges in half-duplex mode. 
+c) Switches broadcast traffic to all ports, while bridges broadcast the traffic to designated ports (ports having the same VLAN port as the sender) by using a MAC address table. 
+d) Switches and bridges are both equally important in modern, large, and complex networks.
+
+Answer - b, c & d
