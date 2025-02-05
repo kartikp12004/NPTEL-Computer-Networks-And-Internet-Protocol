@@ -1,0 +1,6 @@
+1. What kind of sequence number does TCP use? 
+a) byte-oriented sequence number 
+b) packet-oriented sequence number 
+c) Randomly generated fixed sequence numbers 
+d) none of them
+
