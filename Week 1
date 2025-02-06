@@ -4,7 +4,7 @@ b) 10, 8, and 4, respectively.
 c) 10, 10, and 10, respectively. 
 d) 5, 4, and 2, respectively.
 
-Answer - b
+Answer - a
 
 2. Map the devices with their associated layer in the TCP/IP model. 
 A. NIC 
@@ -87,7 +87,7 @@ b) Only (II)
 c) Both (I) and (II) 
 d) Neither (I) nor (II)
 
-Answer - d
+Answer - c
 
 10. Identify the INCORRECT statement(s) related to Bridge and Switch (L2) in computer networks. 
 a) For small enterprises (without the need for features like QoS, VLANs, and STP), a switch is more economical/suitable in the case of segmenting the traffic between two LANs than a bridge. 
@@ -95,4 +95,4 @@ b) Switches operate in full-duplex mode while bridges in half-duplex mode.
 c) Switches broadcast traffic to all ports, while bridges broadcast the traffic to designated ports (ports having the same VLAN port as the sender) by using a MAC address table. 
 d) Switches and bridges are both equally important in modern, large, and complex networks.
 
-Answer - c & d
+Answer - a, c & d
